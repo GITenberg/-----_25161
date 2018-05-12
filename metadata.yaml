@@ -1,0 +1,31 @@
+_repo: '-----_25161'
+_version: 0.1.0
+alternative_title:
+- Wei Zhenggong jian lu
+- Wei Cheng Kung Chien Lu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Fangqing
+    alias: 王方慶
+    deathdate: 702
+    gutenberg_agent_id: '31115'
+    url: http://www.gutenberg.org/2009/agents/31115
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25161'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Biography'
+- !lcsh 'China -- History -- Ming dynasty, 1368-1644 -- Biography'
+- !lcsh 'Wei, Zheng, 580-643'
+- !lcc 'AC'
+title: 魏鄭公諫錄
+url: http://www.gutenberg.org/ebooks/25161
